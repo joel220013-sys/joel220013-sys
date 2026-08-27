@@ -23,13 +23,13 @@
 <table width="100%">
 <tr>
 <td bgcolor="#080e0c" align="center" style="background-color: #080e0c; border: 1px solid #134e4a; border-radius: 6px; padding: 10px 14px; font-family: 'Courier New', monospace; font-size: 11px;">
-  <div style="color: #059669; opacity: 0.55; letter-spacing: 3px; font-size: 10px; margin-bottom: 4px; user-select: none;">
+  <div style="color: #39FF14; opacity: 0.55; letter-spacing: 3px; font-size: 10px; margin-bottom: 4px; user-select: none;">
     01001010 01001111 01000101 01001100 0x7F 0x0A 01101010 01101111 01111001 01110011 01101111 01101110 0x22 0xD3 0x9A
   </div>
   <div style="color: #34d399; font-weight: bold; letter-spacing: 1px;">
     ⚡ NODE: DEFENSIVE_CORE_v2.6 &nbsp;|&nbsp; 🛡️ OWASP: TOP_10_MITIGATED &nbsp;|&nbsp; 🔒 CIPHER: AES_256_GCM &nbsp;|&nbsp; 🌐 REPO: VERIFIED
   </div>
-  <div style="color: #059669; opacity: 0.55; letter-spacing: 3px; font-size: 10px; margin-top: 4px; user-select: none;">
+  <div style="color: #39FF14; opacity: 0.55; letter-spacing: 3px; font-size: 10px; margin-top: 4px; user-select: none;">
     01100011 01111001 01100010 01100101 01110010 0x88 0xFF 01110011 01100101 01100011 01110101 01110010 01101001 01110100 01111001
   </div>
 </td>
