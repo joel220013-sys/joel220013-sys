@@ -23,15 +23,13 @@
 <table width="100%">
 <tr>
 <td bgcolor="#080e0c" align="center" style="background-color: "#080e0c"; border: 1px solid "#134e4a"; border-radius: 6px; padding: 10px 14px; font-family: 'Courier New', monospace; font-size: 11px;">
-  <div style="color: "#39FF14"; opacity: 0.55; letter-spacing: 3px; font-size: 10px; margin-bottom: 4px; user-select: none;">
-    01001010 01001111 01000101 01001100 0x7F 0x0A 01101010 01101111 01111001 01110011 01101111 01101110 0x22 0xD3 0x9A
-  </div>
+  <div style="color: #39FF14; opacity: 0.55; letter-spacing: 3px; font-size: 10px; margin-bottom: 4px; user-select: none;">
+   
   <div style="color: "#34d399"; font-weight: bold; letter-spacing: 1px;">
     ⚡ NODE: DEFENSIVE_CORE_v2.6 &nbsp;|&nbsp; 🛡️ OWASP: TOP_10_MITIGATED &nbsp;|&nbsp; 🔒 CIPHER: AES_256_GCM &nbsp;|&nbsp; 🌐 REPO: VERIFIED
   </div>
   <div style="color: "#39FF14"; opacity: 0.55; letter-spacing: 3px; font-size: 10px; margin-top: 4px; user-select: none;">
-    01100011 01111001 01100010 01100101 01110010 0x88 0xFF 01110011 01100101 01100011 01110101 01110010 01101001 01110100 01111001
-  </div>
+   
 </td>
 </tr>
 </table>
@@ -51,8 +49,7 @@
 <tr>
 <td bgcolor="#0a0f0d" style="background: linear-gradient(90deg, #09130e 0%, #0d1117 100%); border: 1px solid #134e4a; border-left: 4px solid #10b981; padding: 8px 14px;">
 <div style="font-family: monospace; font-size: 10px; color: #10b981; opacity: 0.6; letter-spacing: 2px; line-height: 1; user-select: none;">
-01000011 01011001 01000010 01000101 01010010 // 0x50 0x52 0x4F 0x46 0x49 0x4C 0x45 // [RBAC: ENFORCED]
-</div>
+
 <h3 style="margin: 4px 0 0 0; color: #f0fdf4; font-family: monospace; letter-spacing: 1px;">
 <code>// PROFILE & APPSPEC OVERVIEW</code>
 </h3>
@@ -101,8 +98,7 @@ My academic studies and hands-on projects center on **defensive cybersecurity**,
 <tr>
 <td bgcolor="#0a0f0d" style="background: linear-gradient(90deg, #09130e 0%, #0d1117 100%); border: 1px solid #134e4a; border-left: 4px solid #10b981; padding: 8px 14px;">
 <div style="font-family: monospace; font-size: 10px; color: #10b981; opacity: 0.6; letter-spacing: 2px; line-height: 1; user-select: none;">
-01000001 01010010 01000011 01001000 // 0x42 0x55 0x49 0x4C 0x44 // [SYSTEMS: MODULAR]
-</div>
+
 <h3 style="margin: 4px 0 0 0; color: #f0fdf4; font-family: monospace; letter-spacing: 1px;">
 <code>// ARCHITECTURE & WHAT I BUILD</code>
 </h3>
@@ -172,8 +168,7 @@ Structured relational modeling with role-based policies and optimized query exec
 <tr>
 <td bgcolor="#0a0f0d" style="background: linear-gradient(90deg, #09130e 0%, #0d1117 100%); border: 1px solid #134e4a; border-left: 4px solid #10b981; padding: 8px 14px;">
 <div style="font-family: monospace; font-size: 10px; color: #10b981; opacity: 0.6; letter-spacing: 2px; line-height: 1; user-select: none;">
-01010011 01010100 01000001 01000011 01001011 // 0x54 0x4F 0x4F 0x4C 0x53 // [OWASP: HARDENED]
-</div>
+
 <h3 style="margin: 4px 0 0 0; color: #f0fdf4; font-family: monospace; letter-spacing: 1px;">
 <code>// TECH STACK & SECURITY TOOLING</code>
 </h3>
@@ -202,8 +197,7 @@ Structured relational modeling with role-based policies and optimized query exec
 <tr>
 <td bgcolor="#0a0f0d" style="background: linear-gradient(90deg, #09130e 0%, #0d1117 100%); border: 1px solid #134e4a; border-left: 4px solid #10b981; padding: 8px 14px;">
 <div style="font-family: monospace; font-size: 10px; color: #10b981; opacity: 0.6; letter-spacing: 2px; line-height: 1; user-select: none;">
-01010011 01000101 01000011 01010101 01010010 01001001 01010100 01011001 // 0x41 0x50 0x50 0x53 0x45 0x43 // [TLS: 1.3]
-</div>
+
 <h3 style="margin: 4px 0 0 0; color: #f0fdf4; font-family: monospace; letter-spacing: 1px;">
 <code>// DEFENSIVE CYBERSECURITY & APPLICATION SECURITY</code>
 </h3>
