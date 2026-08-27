@@ -12,6 +12,13 @@
   <em>“Engineering secure, intelligent, and resilient software systems from first principles.”</em>
 </p>
 
+<!-- CYBERSECURITY ANIMATED TERMINAL -->
+<p align="center">
+  <a href="https://github.com/joel220013-sys">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1800&color=22D3EE&center=true&vCenter=true&width=620&lines=%3E+INITIALIZING+CYBERSECURITY+TELEMETRY...;%3E+ENGINEERING+SECURE+FULL+STACK+SYSTEMS...;%3E+DEFENDING+AGAINST+OWASP+TOP+10+VULNERABILITIES...;%3E+ARCHITECTING+APPLIED+AI+%26+RAG+PIPELINES...;%3E+BUILDING+RESILIENT+ZERO-TO-ONE+HACKATHON+MVPS..." alt="Cyber Security Typing Animation" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Cybersecurity_Student_%26_Developer-06b6d4?style=flat-square&labelColor=0d1117&color=6366f1" alt="Status Badge" />
   <img src="https://img.shields.io/badge/Domain-Defensive_Security_%7C_Full_Stack_%7C_AI-22d3ee?style=flat-square&labelColor=0d1117&color=0f172a" alt="Focus Badge" />
@@ -354,3 +361,4 @@ Structured relational modeling with role-based policies and optimized query exec
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:111827,100:1e1b4b&height=80&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
+
