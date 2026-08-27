@@ -1,325 +1,356 @@
+<!-- ================================================================= -->
+<!-- JOEL JOYSON N | GITHUB PROFILE README                             -->
+<!-- Cybersecurity Student • Full Stack Developer • AI • Systems       -->
+<!-- ================================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=6A5ACD&text=Joel%20Joyson%20N&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=40"/>
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,40:0f172a,75:1e1b4b,100:311042&height=220&section=header&text=JOEL%20%20JOYSON%20%20N&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=42&desc=CYBERSECURITY%20STUDENT%20%20•%20%20FULL%20STACK%20DEVELOPER%20%20•%20%20APPLIED%20AI%20%20•%20%20DEFENSIVE%20SYSTEMS&descSize=13&descColor=22d3ee&descAlign=50&descAlignY=66&stroke=818cf8&strokeWidth=0.5" width="100%" alt="Joel Joyson N Header Banner" />
 
-# Joel Joyson N
+<p align="center">
+  <em>“Engineering secure, intelligent, and resilient software systems from first principles.”</em>
+</p>
 
-### Full Stack Developer • AI Enthusiast • Cybersecurity Learner • Hackathon Builder
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Cybersecurity+%26+Ethical+Hacking;React+%7C+Node.js+%7C+PostgreSQL;Building+Impactful+Projects)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Cybersecurity_Student_%26_Developer-06b6d4?style=flat-square&labelColor=0d1117&color=6366f1" alt="Status Badge" />
+  <img src="https://img.shields.io/badge/Domain-Defensive_Security_%7C_Full_Stack_%7C_AI-22d3ee?style=flat-square&labelColor=0d1117&color=0f172a" alt="Focus Badge" />
+  <img src="https://img.shields.io/badge/Location-Karnataka%2C%20India-818cf8?style=flat-square&labelColor=0d1117&color=1e1b4b" alt="Location Badge" />
+</p>
 
 </div>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Computer%20Science-Student-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Location-Karnataka,%20India-7B68EE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge"/>
-</p>
-
-<p align="center">
-<a href="mailto:joel220013@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/joel220013-sys">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/joel-joyson-n-a4242a362">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
-</a>
-</p>
-
 ---
 
-# About Me
+### `// PROFILE`
 
-I am a passionate Full Stack Developer with a strong interest in Artificial Intelligence, Machine Learning, Cybersecurity, and Modern Web Technologies.
+<table>
+<tr>
+<td width="55%" valign="top">
 
-I enjoy transforming innovative ideas into practical software solutions and building applications that solve real-world problems. My focus is on scalable architectures, secure development practices, AI-powered systems, and modern product engineering.
+#### 🛡️ Cybersecurity & Engineering Profile
+I am a **Cybersecurity and Computer Science Student** and **Full Stack Developer** dedicated to building resilient, security-hardened applications and intelligent systems.
 
-### Open To
+My academic studies and hands-on projects center on **defensive cybersecurity**, **web application vulnerability mitigation (OWASP Top 10)**, **secure backend architectures**, and **applied AI**. I bring a security-first engineering mindset to every hackathon, software build, and system design sprint.
 
-- Software Development Internships
-- Full Stack Development Projects
-- AI/ML Collaborations
-- Hackathons
-- Open Source Contributions
+- 🛡️ **Cybersecurity Core:** Threat modeling, secure authentication (RBAC/JWT), payload validation & defensive architecture
+- 🌐 **Full Stack Development:** Scalable web services, clean modular REST APIs & responsive UI engineering
+- 🧠 **Applied Intelligence:** Context-aware RAG pipelines, AI-driven tooling & automated workflows
+- 🚀 **Hackathon Builder:** Rapid zero-to-one prototyping with security baked in from line one
 
----
+</td>
+<td width="45%" valign="top">
 
-# Tech Stack
+#### 📍 Core Domains
 
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c"/>
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind"/>
-</p>
-
-## Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,mysql"/>
-</p>
-
-## Cloud, DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker"/>
-</p>
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|------------|------------|
-| Machine Learning | Intermediate | Model Building & Evaluation |
-| Artificial Intelligence | Intermediate | AI Applications & Automation |
-| Data Analysis | Intermediate | Data Processing & Visualization |
-| Prompt Engineering | Advanced | LLM Prompt Design |
-| RAG Systems | Learning | Retrieval Augmented Generation |
-| AI Agents | Learning | Multi-Agent Systems |
-
----
-
-# Featured Projects
-
-<details>
-<summary><b>Nexora</b></summary>
-
-### AI-Powered Academic Knowledge Handover Platform
-
-| Category | Details |
-|-----------|----------|
-| Stack | React, Node.js, PostgreSQL, Supabase |
-| Scale | Multi-Department |
-| Security | Role-Based Access |
-| Impact | Academic Knowledge Preservation |
-| Repository | Private |
-
-Nexora enables intelligent academic knowledge transfer and management using AI-powered workflows and secure document handling.
-
-</details>
-
-<details>
-<summary><b>TourSafe</b></summary>
-
-### Smart Travel Safety Platform
-
-| Category | Details |
-|-----------|----------|
-| Stack | TypeScript, React |
-| Scale | Tourist Assistance |
-| Security | User Authentication |
-| Impact | Safe Travel Experience |
-| Repository | Public |
-
-TourSafe provides travelers with safety guidance, emergency support information, and travel recommendations.
-
-</details>
-
-<details>
-<summary><b>Healthy-Life</b></summary>
-
-### Health & Wellness Platform
-
-| Category | Details |
-|-----------|----------|
-| Stack | HTML, CSS, JavaScript |
-| Scale | Personal Health Tracking |
-| Security | User Data Protection |
-| Impact | Wellness Monitoring |
-| Repository | Public |
-
-A platform designed to encourage healthy lifestyles through monitoring and awareness features.
-
-</details>
-
-<details>
-<summary><b>AI Knowledge Handover</b></summary>
-
-### Knowledge Preservation System
-
-| Category | Details |
-|-----------|----------|
-| Stack | JavaScript |
-| Scale | Educational Institutions |
-| Security | Secure Access |
-| Impact | Expertise Retention |
-| Repository | Public |
-
-An AI-driven solution for preserving and transferring organizational knowledge.
-
-</details>
-
----
-
-# Experience
-
-## Student Developer
-
-**Independent Projects & Hackathons**
-
-**2024 – Present**
-
-- Full Stack Development
-- AI-Based Solutions
-- Database Design
-- Cybersecurity Research
-- Product Development
-- Team Collaboration
-
-**Skills:** React, Node.js, PostgreSQL, Supabase, JavaScript, AI
-
----
-
-# Achievements
-
-| Recognition | Details |
-|-------------|----------|
-| Campus Mantri | GeeksforGeeks |
-| Hackathon Participant | Multiple Innovation Events |
-| Full Stack Projects | End-to-End Development |
-| AI Projects | Knowledge Transfer Systems |
-
----
-
-# Certifications
-
-### AWS
-
-![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge)
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-049FD9?style=for-the-badge)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-success?style=for-the-badge)
-
----
-
-# Coding Profiles
-
-<p align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-# GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joel220013-sys&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel220013-sys&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joel220013-sys&theme=tokyonight"/>
-
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=joel220013-sys&theme=tokyonight&row=2&column=4"/>
-
-</p>
-
----
-
-# Contribution Activity
-
-[![Joel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joel220013-sys&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-# Contribution Snake
-
-```txt
-Enable GitHub Actions and add Snake Workflow
-to generate contribution snake animation.
+```text
+├── Defensive Cybersecurity & AppSec
+├── Secure Full Stack Web Systems
+├── Applied Artificial Intelligence & RAG
+├── Network Security & Cryptographic Concepts
+├── Cloud Security & Linux System Defense
+└── Rapid Hackathon & MVP Prototyping
 ```
 
----
+*Actively studying threat mitigation, secure coding standards, AI agent workflows, and secure distributed backend architectures.*
 
-# Current Focus
-
-```yaml
-Learning:
-  - AI Agents
-  - RAG Systems
-  - Cloud Computing
-
-Building:
-  - Nexora
-  - AI Applications
-  - Full Stack Solutions
-
-Exploring:
-  - Cybersecurity
-  - DevOps
-  - System Design
-
-Open To:
-  - Internships
-  - Freelance Projects
-  - Open Source Collaboration
-```
+</td>
+</tr>
+</table>
 
 ---
 
-# Connect
+### `// ARCHITECTURE & WHAT I BUILD`
 
-📧 Email: joel220013@gmail.com
+<table>
+<tr>
+<td width="33%" valign="top">
 
-💼 LinkedIn:
-https://www.linkedin.com/in/joel-joyson-n-a4242a362
+#### 🌐 Web Systems
+Modular, resilient full-stack applications with responsive client interfaces and performant API layers.
+- **Stack:** React, Vite, Node.js, Express, Tailwind CSS
+- **Data:** PostgreSQL, Supabase, MySQL
 
-💻 GitHub:
-https://github.com/joel220013-sys
+</td>
+<td width="33%" valign="top">
+
+#### 🧠 AI Applications
+Intelligent tools leveraging retrieval systems, automated workflows, and language model integration for knowledge management.
+- **Focus:** RAG pipelines, AI Agents, Prompt Engineering
+- **Focus:** Context preservation & structured extraction
+
+</td>
+<td width="33%" valign="top">
+
+#### 🛡️ Secure Tools & Utilities
+Defensive utilities built with security-first principles, robust validation, and strict access controls.
+- **Focus:** Authentication / Authorization, OWASP adherence
+- **Focus:** API payload sanitization & logging
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+#### ⚡ Rapid Prototypes
+Agile zero-to-one MVPs built for hackathons and innovation challenges under tight delivery constraints.
+- **Focus:** Fast turnaround, intuitive UI/UX
+- **Focus:** Scalable architecture foundations
+
+</td>
+<td width="33%" valign="top">
+
+#### ⚙️ Automation & Tooling
+Custom developer workflows, script automations, and data ingestion routines for rapid operations.
+- **Stack:** Python, TypeScript, Linux Shell
+- **Focus:** Workflow efficiency & automated testing
+
+</td>
+<td width="33%" valign="top">
+
+#### 🗄️ Database Architecture
+Structured relational modeling with role-based policies and optimized query execution.
+- **Engines:** PostgreSQL, Supabase, MySQL
+- **Focus:** Data integrity, relational schemas, indexing
+
+</td>
+</tr>
+</table>
 
 ---
 
-> Building secure, intelligent, and impactful technology solutions.
+### `// TECH STACK & SECURITY TOOLING`
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=6A5ACD"/>
+| Domain | Technologies & Tooling |
+| :--- | :--- |
+| **Languages** | <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,py,java,c,bash&theme=dark" alt="Languages" /></a> |
+| **Security & Systems** | <a href="#"><img src="https://skillicons.dev/icons?i=linux,kali,postman,regex&theme=dark" alt="Security & Systems" /></a> |
+| **Backend & DB** | <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,mysql&theme=dark" alt="Backend & DB" /></a> |
+| **Frontend** | <a href="#"><img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind&theme=dark" alt="Frontend" /></a> |
+| **DevOps & Infrastructure** | <a href="#"><img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode&theme=dark" alt="DevOps & Infrastructure" /></a> |
+
+</div>
+
+> *Note: Technologies listed represent tools used in active coursework, cybersecurity labs, software builds, and ongoing certifications.*
+
+---
+
+### `// DEFENSIVE CYBERSECURITY & APPLICATION SECURITY`
+
+> *Approaching security not as an afterthought, but as an architectural pillar across the software development lifecycle (SDLC).*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛡️ Application & Network Security
+- **OWASP Top 10 Mitigation:** Defending against SQLi, XSS, CSRF, SSRF, Broken Access Control, and Insecure Deserialization.
+- **Identity, Authentication & RBAC:** Engineering secure session states, JWT signing/validation, and granular Role-Based Access Control policies.
+- **API & Payload Hardening:** Implementing strict schema validation, input sanitization, rate-limiting, CORS, and Content Security Policy (CSP).
+- **Network Defense Fundamentals:** Cisco-certified routing & switching basics, subnetting, TCP/IP packet inspection, and firewall rules.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔍 Security Labs & Hands-On Analysis
+- **Vulnerability Assessment:** Analyzing attack surfaces, data flow risks, and privilege escalation vulnerabilities during design.
+- **Defensive Scripting & Tooling:** Writing Python and Bash scripts for log analysis, automated security checks, and endpoint monitoring.
+- **Practical Security Labs:** Active practice on web application security labs, CTF challenges, and threat modeling frameworks.
+- **Secure Code Review:** Auditing dependencies, managing secret variables, and enforcing least-privilege database permissions.
+
+</td>
+</tr>
+</table>
+
+---
+
+### `// FEATURED PROJECTS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 [Nexora](https://github.com/joel220013-sys)
+**AI-Powered Academic Knowledge Handover Platform**
+
+- **Category:** Full Stack • AI System • Academic Tech
+- **Stack:** `React` `Node.js` `PostgreSQL` `Supabase` `Tailwind CSS`
+- **Description:** An intelligent knowledge preservation platform designed to streamline documentation, knowledge continuity, and academic project handovers between student cohorts and faculty.
+- **Security & Engineering:** Role-based access control (RBAC), multi-tenant isolation, and encrypted document storage.
+- **Status:** `Active Development` • `Private Repository`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [TourSafe](https://github.com/joel220013-sys/TourSafe)
+**Smart Travel Safety & Advisory Platform**
+
+- **Category:** Web Application • Safety Tech
+- **Stack:** `TypeScript` `React` `Vite` `Tailwind CSS`
+- **Description:** A dedicated travel safety assistance portal providing contextual safety advisories, verified emergency services directory, and real-time guidance for travelers.
+- **Security & Engineering:** Client-side validation, clean state architecture, and fast load times under constrained network conditions.
+- **Status:** `Public Repository`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌿 [Healthy-Life](https://github.com/joel220013-sys/Healthy-Life)
+**Health & Wellness Tracking Portal**
+
+- **Category:** Frontend System • Health Tech
+- **Stack:** `JavaScript` `HTML5` `CSS3`
+- **Description:** An accessible, responsive web application for personal wellness awareness, daily health metrics logging, and lifestyle habit tracking.
+- **Security & Engineering:** Lightweight client architecture, cross-device responsiveness, and intuitive interface design.
+- **Status:** `Public Repository`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [AI Knowledge Handover](https://github.com/joel220013-sys/AI-Knowledge-Handover)
+**AI-Driven Knowledge Preservation Engine**
+
+- **Category:** Applied AI • Knowledge Management
+- **Stack:** `JavaScript` `Node.js` `REST APIs`
+- **Description:** An AI-augmented system engineered to capture unstructured project notes, synthesize technical summaries, and facilitate frictionless organizational handoffs.
+- **Security & Engineering:** Structured schema validation and controlled data extraction pipelines.
+- **Status:** `Public Repository`
+
+</td>
+</tr>
+</table>
+
+---
+
+### `// BUILD MODE • HACKATHONS`
+
+```
+  ┌──────────────────┐     ┌──────────────────┐     ┌──────────────────┐     ┌──────────────────┐
+  │ Problem Analysis │ ──> │ Modular Design   │ ──> │ Full Stack MVP   │ ──> │ Secure Deployment│
+  │ & Requirement    │     │ & DB Schemas     │     │ & AI Integration │     │ & Product Pitch  │
+  └──────────────────┘     └──────────────────┘     └──────────────────┘     └──────────────────┘
+```
+
+- **Rapid Engineering:** Converting complex problem statements into functional MVPs within 24–48 hour sprints.
+- **Cross-Functional Execution:** Managing database schemas, backend API contracts, and responsive UI layouts simultaneously.
+- **Team Collaboration:** Driving project scoping, version control branching, and architectural clarity in team environments.
+
+---
+
+### `// CURRENT FOCUS`
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+#### 📚 Learning
+- Web App Security (OWASP)
+- Network Defense & Wireshark
+- Cloud Security (AWS)
+- RAG & AI Agent Systems
+
+</td>
+<td width="25%" valign="top">
+
+#### 🔨 Building
+- **Nexora** (RBAC & Auth)
+- Security Automation Scripts
+- **TourSafe** Travel Safety App
+- Hackathon Prototypes
+
+</td>
+<td width="25%" valign="top">
+
+#### 🔭 Exploring
+- Threat Modeling & AppSec
+- Defensive Architecture
+- Container Security & CI/CD
+- Secure API Design
+
+</td>
+<td width="25%" valign="top">
+
+#### 🤝 Open To
+- Cybersecurity & AppSec Internships
+- Full Stack Engineering Roles
+- Hackathon Collaborations
+- Open Source Security Tools
+
+</td>
+</tr>
+</table>
+
+---
+
+### `// GITHUB ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=joel220013-sys&show_icons=true&theme=tokyonight&hide_border=false&border_color=1f2937&bg_color=0d1117&title_color=818cf8&icon_color=38bdf8&text_color=e2e8f0&rank_icon=github" alt="Joel's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel220013-sys&layout=compact&theme=tokyonight&hide_border=false&border_color=1f2937&bg_color=0d1117&title_color=818cf8&text_color=e2e8f0" alt="Top Languages" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joel220013-sys&theme=tokyonight&hide_border=false&border_color=1f2937&background=0d1117&stroke=818cf8&ring=6366f1&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="97%" />
+
+</div>
+
+---
+
+### `// MILESTONES & CYBERSECURITY LEARNING PATH`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏆 Community & Engineering Milestones
+- **Campus Mantri** — GeeksforGeeks
+- **Hackathon Participant** — Multiple regional and collegiate innovation sprints
+- **Defensive & Full Stack Delivery** — Building secure zero-to-one architectures
+- **Applied AI Implementations** — Practical knowledge-handover and safety platforms
+
+</td>
+<td width="50%" valign="top">
+
+#### 📜 Certifications & Security Studies
+- **Cisco:** Networking Foundations & Cybersecurity Fundamentals
+- **NPTEL:** Certified Coursework in Computer Science
+- **Defensive Practice:** Hands-on Web App Security, CTF labs & OWASP study
+- **Cloud & DB:** AWS Cloud Concepts & Oracle Fundamentals (*In Progress*)
+
+</td>
+</tr>
+</table>
+
+---
+
+### `// CONNECT`
+
+<div align="center">
+
+<p align="center">
+  <em>Looking to collaborate on innovative projects, hackathons, or software engineering roles? Let's connect.</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joel-joyson-n-a4242a362">
+    <img src="https://img.shields.io/badge/LinkedIn-Joel_Joyson_N-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:joel220013@gmail.com">
+    <img src="https://img.shields.io/badge/Email-joel220013@gmail.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/joel220013-sys">
+    <img src="https://img.shields.io/badge/GitHub-joel220013--sys-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:111827,100:1e1b4b&height=80&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
