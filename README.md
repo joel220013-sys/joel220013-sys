@@ -6,7 +6,7 @@
 ### Cybersecurity • Full-Stack Engineering • Applied AI • Ethical Hacking
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joel220013-sys/joel220013-sys/main/assets/joel-avatar.svg" width="220" alt="Joel animated portrait" />
+  <img src="https://raw.githubusercontent.com/joel220013-sys/joel220013-sys/main/assets/joel-digital-face.gif" width="300" alt="Animated digital face" />
 </p>
 
 <p>
