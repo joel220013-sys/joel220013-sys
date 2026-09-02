@@ -30,6 +30,21 @@ jobs:
           GITHUB_OWNER: ${{ github.repository_owner }}
         run: python scripts/generate_profile.py
 
+      - name: Add animated portrait
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p = Path("README.md")
+          s = p.read_text(encoding="utf-8")
+          marker = '### Cybersecurity • Full-Stack Engineering • Applied AI • Ethical Hacking\n'
+          portrait = '''\n<p align="center">\n  <img src="https://raw.githubusercontent.com/joel220013-sys/joel220013-sys/main/assets/joel-avatar.svg" width="220" alt="Joel animated portrait" />\n</p>\n'''
+          if "assets/joel-avatar.svg" in s:
+              raise SystemExit("Animated portrait already present")
+          if marker not in s:
+              raise SystemExit("Profile heading marker not found")
+          p.write_text(s.replace(marker, marker + portrait, 1), encoding="utf-8")
+          PY
+
       - name: Commit generated README
         run: |
           git config user.name "github-actions[bot]"
