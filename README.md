@@ -5,6 +5,10 @@
 
 ### Cybersecurity • Full-Stack Engineering • Applied AI • Ethical Hacking
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joel220013-sys/joel220013-sys/main/assets/joel-avatar.svg" width="220" alt="Joel animated portrait" />
+</p>
+
 <p>
   <a href="https://github.com/joel220013-sys"><img src="https://img.shields.io/badge/GitHub-@joel220013-sys-111827?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Focus-Application%20Security-0f766e?style=for-the-badge&logo=shield" alt="Security" />
@@ -25,7 +29,7 @@
 | 🍴 Forks received | **0** | 👥 Followers | **0** |
 | 🔗 Following | **0** | 🛰️ Profile engine | **ACTIVE** |
 
-> This section is generated automatically from GitHub data. **Last generated: `2026-09-02 03:00 UTC`**
+> This section is generated automatically from GitHub data. **Last generated: `2026-09-02 03:15 UTC`**
 
 ---
 
