@@ -25,11 +25,11 @@
 
 | Signal | Value | Signal | Value |
 |---|---:|---|---:|
-| 📦 Public repositories | **11** | ⭐ Stars received | **0** |
+| 📦 Public repositories | **12** | ⭐ Stars received | **0** |
 | 🍴 Forks received | **1** | 👥 Followers | **3** |
 | 🔗 Following | **2** | 🛰️ Profile engine | **ACTIVE** |
 
-> This section is generated automatically from GitHub data. **Last generated: `2026-09-25 05:03 UTC`**
+> This section is generated automatically from GitHub data. **Last generated: `2026-09-26 05:05 UTC`**
 
 ---
 
@@ -71,22 +71,22 @@
 
 | Project | What it is | Primary tech | ⭐ | Last push |
 |---|---|---|---:|---|
+| **[arabian-mandi](https://github.com/joel220013-sys/arabian-mandi)** | A project built as part of my engineering journey. | `CSS` | ⭐ 0 | `2026-09-25` |
 | **[portfolio](https://github.com/joel220013-sys/portfolio)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-09-23` |
 | **[nexora](https://github.com/joel220013-sys/nexora)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-06-11` |
 | **[toursafe](https://github.com/joel220013-sys/toursafe)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-04-10` |
 | **[tourist](https://github.com/joel220013-sys/tourist)** | A project built as part of my engineering journey. | `Python` | ⭐ 0 | `2025-09-16` |
-| **[cyber_home_shield](https://github.com/joel220013-sys/cyber_home_shield)** | A project built as part of my engineering journey. | `Python` | ⭐ 0 | `2026-09-23` |
-| **[UB-1004](https://github.com/joel220013-sys/UB-1004)** | A project built as part of my engineering journey. | `JavaScript` | ⭐ 0 | `2026-02-20` |
+| **[cyber_home_shield](https://github.com/joel220013-sys/cyber_home_shield)** | A project built as part of my engineering journey. | `Python` | ⭐ 0 | `2026-09-25` |
 
 ---
 
 ## 📡 Recent Engineering Activity
 
+- **[cyber_home_shield](https://github.com/joel220013-sys/cyber_home_shield)** — Active project · `Python` · updated `2026-09-25`
+- **[arabian-mandi](https://github.com/joel220013-sys/arabian-mandi)** — Active project · `CSS` · updated `2026-09-25`
 - **[portfolio](https://github.com/joel220013-sys/portfolio)** — Active project · `TypeScript` · updated `2026-09-23`
-- **[cyber_home_shield](https://github.com/joel220013-sys/cyber_home_shield)** — Active project · `Python` · updated `2026-09-23`
 - **[password_breacher-](https://github.com/joel220013-sys/password_breacher-)** — Active project · `Kotlin` · updated `2026-08-15`
 - **[bharat-cybershield](https://github.com/joel220013-sys/bharat-cybershield)** — Active project · `Python` · updated `2026-08-15`
-- **[nexora](https://github.com/joel220013-sys/nexora)** — Active project · `TypeScript` · updated `2026-06-11`
 
 ---
 
