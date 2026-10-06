@@ -25,11 +25,11 @@
 
 | Signal | Value | Signal | Value |
 |---|---:|---|---:|
-| 📦 Public repositories | **11** | ⭐ Stars received | **0** |
+| 📦 Public repositories | **12** | ⭐ Stars received | **0** |
 | 🍴 Forks received | **0** | 👥 Followers | **3** |
 | 🔗 Following | **2** | 🛰️ Profile engine | **ACTIVE** |
 
-> This section is generated automatically from GitHub data. **Last generated: `2026-10-05 05:48 UTC`**
+> This section is generated automatically from GitHub data. **Last generated: `2026-10-06 06:28 UTC`**
 
 ---
 
@@ -58,7 +58,7 @@
 ## 🧰 Detected Technology Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="38" alt="Python" /> <img src="https://skillicons.dev/icons?i=typescript&theme=dark" height="38" alt="TypeScript" /> <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="38" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=html5&theme=dark" height="38" alt="HTML" /> <img src="https://skillicons.dev/icons?i=css3&theme=dark" height="38" alt="CSS" /> <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="38" alt="C++" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="38" alt="Python" /> <img src="https://skillicons.dev/icons?i=typescript&theme=dark" height="38" alt="TypeScript" /> <img src="https://skillicons.dev/icons?i=html5&theme=dark" height="38" alt="HTML" /> <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="38" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=css3&theme=dark" height="38" alt="CSS" /> <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="38" alt="C++" />
 </div>
 
 <p align="center">
@@ -82,11 +82,11 @@
 
 ## 📡 Recent Engineering Activity
 
+- **[IA](https://github.com/joel220013-sys/IA)** — Active project · `Python` · updated `2026-10-06`
 - **[skyblue](https://github.com/joel220013-sys/skyblue)** — Active project · `TypeScript` · updated `2026-10-04`
 - **[portfolio](https://github.com/joel220013-sys/portfolio)** — Active project · `TypeScript` · updated `2026-09-23`
 - **[password_breacher-](https://github.com/joel220013-sys/password_breacher-)** — Active project · `Kotlin` · updated `2026-08-15`
 - **[bharat-cybershield](https://github.com/joel220013-sys/bharat-cybershield)** — Active project · `Python` · updated `2026-08-15`
-- **[nexora](https://github.com/joel220013-sys/nexora)** — Active project · `TypeScript` · updated `2026-06-11`
 
 ---
 
