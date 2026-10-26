@@ -29,7 +29,7 @@
 | 🍴 Forks received | **0** | 👥 Followers | **3** |
 | 🔗 Following | **2** | 🛰️ Profile engine | **ACTIVE** |
 
-> This section is generated automatically from GitHub data. **Last generated: `2026-10-25 04:50 UTC`**
+> This section is generated automatically from GitHub data. **Last generated: `2026-10-26 04:55 UTC`**
 
 ---
 
@@ -71,12 +71,12 @@
 
 | Project | What it is | Primary tech | ⭐ | Last push |
 |---|---|---|---:|---|
+| **[wellness-diagnostic](https://github.com/joel220013-sys/wellness-diagnostic)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-10-25` |
 | **[skyblue](https://github.com/joel220013-sys/skyblue)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-10-04` |
 | **[portfolio](https://github.com/joel220013-sys/portfolio)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-09-23` |
 | **[nexora](https://github.com/joel220013-sys/nexora)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-06-11` |
 | **[toursafe](https://github.com/joel220013-sys/toursafe)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-04-10` |
 | **[tourist](https://github.com/joel220013-sys/tourist)** | A project built as part of my engineering journey. | `Python` | ⭐ 0 | `2025-09-16` |
-| **[Jlab](https://github.com/joel220013-sys/Jlab)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-10-19` |
 
 ---
 
