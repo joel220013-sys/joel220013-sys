@@ -25,11 +25,11 @@
 
 | Signal | Value | Signal | Value |
 |---|---:|---|---:|
-| 📦 Public repositories | **14** | ⭐ Stars received | **0** |
+| 📦 Public repositories | **15** | ⭐ Stars received | **0** |
 | 🍴 Forks received | **0** | 👥 Followers | **3** |
 | 🔗 Following | **2** | 🛰️ Profile engine | **ACTIVE** |
 
-> This section is generated automatically from GitHub data. **Last generated: `2026-10-29 05:55 UTC`**
+> This section is generated automatically from GitHub data. **Last generated: `2026-10-30 05:56 UTC`**
 
 ---
 
@@ -71,22 +71,22 @@
 
 | Project | What it is | Primary tech | ⭐ | Last push |
 |---|---|---|---:|---|
-| **[wellness-diagnostic](https://github.com/joel220013-sys/wellness-diagnostic)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-10-25` |
+| **[wellness-diagnostic](https://github.com/joel220013-sys/wellness-diagnostic)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-10-30` |
+| **[FUTURE_CS_01](https://github.com/joel220013-sys/FUTURE_CS_01)** | Read-only vulnerability assessment for wellnessdiagnosticcenter.in | `Code` | ⭐ 0 | `2026-10-29` |
 | **[skyblue](https://github.com/joel220013-sys/skyblue)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-10-04` |
 | **[portfolio](https://github.com/joel220013-sys/portfolio)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-09-23` |
 | **[nexora](https://github.com/joel220013-sys/nexora)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-06-11` |
 | **[toursafe](https://github.com/joel220013-sys/toursafe)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-04-10` |
-| **[tourist](https://github.com/joel220013-sys/tourist)** | A project built as part of my engineering journey. | `Python` | ⭐ 0 | `2025-09-16` |
 
 ---
 
 ## 📡 Recent Engineering Activity
 
-- **[wellness-diagnostic](https://github.com/joel220013-sys/wellness-diagnostic)** — Active project · `TypeScript` · updated `2026-10-25`
+- **[wellness-diagnostic](https://github.com/joel220013-sys/wellness-diagnostic)** — Active project · `TypeScript` · updated `2026-10-30`
+- **[FUTURE_CS_01](https://github.com/joel220013-sys/FUTURE_CS_01)** — Read-only vulnerability assessment for wellnessdiagnosticcenter.in · `Code` · updated `2026-10-29`
 - **[Jlab](https://github.com/joel220013-sys/Jlab)** — Active project · `TypeScript` · updated `2026-10-19`
 - **[IA](https://github.com/joel220013-sys/IA)** — Active project · `Python` · updated `2026-10-06`
 - **[skyblue](https://github.com/joel220013-sys/skyblue)** — Active project · `TypeScript` · updated `2026-10-04`
-- **[portfolio](https://github.com/joel220013-sys/portfolio)** — Active project · `TypeScript` · updated `2026-09-23`
 
 ---
 
