@@ -25,11 +25,11 @@
 
 | Signal | Value | Signal | Value |
 |---|---:|---|---:|
-| 📦 Public repositories | **15** | ⭐ Stars received | **0** |
+| 📦 Public repositories | **16** | ⭐ Stars received | **0** |
 | 🍴 Forks received | **0** | 👥 Followers | **3** |
 | 🔗 Following | **3** | 🛰️ Profile engine | **ACTIVE** |
 
-> This section is generated automatically from GitHub data. **Last generated: `2026-11-11 06:36 UTC`**
+> This section is generated automatically from GitHub data. **Last generated: `2026-11-12 07:19 UTC`**
 
 ---
 
@@ -58,7 +58,7 @@
 ## 🧰 Detected Technology Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="38" alt="Python" /> <img src="https://skillicons.dev/icons?i=typescript&theme=dark" height="38" alt="TypeScript" /> <img src="https://skillicons.dev/icons?i=html5&theme=dark" height="38" alt="HTML" /> <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="38" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=css3&theme=dark" height="38" alt="CSS" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="38" alt="Python" /> <img src="https://skillicons.dev/icons?i=typescript&theme=dark" height="38" alt="TypeScript" /> <img src="https://skillicons.dev/icons?i=html5&theme=dark" height="38" alt="HTML" /> <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="38" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=css3&theme=dark" height="38" alt="CSS" /> <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="38" alt="C++" />
 </div>
 
 <p align="center">
@@ -71,22 +71,22 @@
 
 | Project | What it is | Primary tech | ⭐ | Last push |
 |---|---|---|---:|---|
+| **[FUTURE_CS_02](https://github.com/joel220013-sys/FUTURE_CS_02)** | A project built as part of my engineering journey. | `Code` | ⭐ 0 | `2026-11-11` |
+| **[FUTURE_CS_03](https://github.com/joel220013-sys/FUTURE_CS_03)** | Future Interns Cyber Security Task 3 - read-only API security risk analysis of the ReqRes demo API. | `Code` | ⭐ 0 | `2026-11-11` |
 | **[portfolio](https://github.com/joel220013-sys/portfolio)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-11-09` |
-| **[wellness-diagnostic](https://github.com/joel220013-sys/wellness-diagnostic)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-11-06` |
 | **[FUTURE_CS_01](https://github.com/joel220013-sys/FUTURE_CS_01)** | Read-only vulnerability assessment for wellnessdiagnosticcenter.in | `Code` | ⭐ 0 | `2026-10-29` |
 | **[skyblue](https://github.com/joel220013-sys/skyblue)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-10-04` |
 | **[nexora](https://github.com/joel220013-sys/nexora)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-06-11` |
-| **[toursafe](https://github.com/joel220013-sys/toursafe)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-04-10` |
 
 ---
 
 ## 📡 Recent Engineering Activity
 
+- **[FUTURE_CS_02](https://github.com/joel220013-sys/FUTURE_CS_02)** — Active project · `Code` · updated `2026-11-11`
+- **[FUTURE_CS_03](https://github.com/joel220013-sys/FUTURE_CS_03)** — Future Interns Cyber Security Task 3 - read-only API security risk analysis of the ReqRes demo API. · `Code` · updated `2026-11-11`
 - **[portfolio](https://github.com/joel220013-sys/portfolio)** — Active project · `TypeScript` · updated `2026-11-09`
-- **[wellness-diagnostic](https://github.com/joel220013-sys/wellness-diagnostic)** — Active project · `TypeScript` · updated `2026-11-06`
 - **[FUTURE_CS_01](https://github.com/joel220013-sys/FUTURE_CS_01)** — Read-only vulnerability assessment for wellnessdiagnosticcenter.in · `Code` · updated `2026-10-29`
 - **[Jlab](https://github.com/joel220013-sys/Jlab)** — Active project · `TypeScript` · updated `2026-10-19`
-- **[IA](https://github.com/joel220013-sys/IA)** — Active project · `Python` · updated `2026-10-06`
 
 ---
 
