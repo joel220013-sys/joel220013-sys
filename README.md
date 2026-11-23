@@ -29,7 +29,7 @@
 | 🍴 Forks received | **0** | 👥 Followers | **3** |
 | 🔗 Following | **3** | 🛰️ Profile engine | **ACTIVE** |
 
-> This section is generated automatically from GitHub data. **Last generated: `2026-11-22 06:59 UTC`**
+> This section is generated automatically from GitHub data. **Last generated: `2026-11-23 07:48 UTC`**
 
 ---
 
@@ -75,18 +75,18 @@
 | **[FUTURE_CS_03](https://github.com/joel220013-sys/FUTURE_CS_03)** | Future Interns Cyber Security Task 3 - read-only API security risk analysis of the ReqRes demo API. | `Code` | ⭐ 0 | `2026-11-11` |
 | **[portfolio](https://github.com/joel220013-sys/portfolio)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-11-09` |
 | **[FUTURE_CS_01](https://github.com/joel220013-sys/FUTURE_CS_01)** | Read-only vulnerability assessment for wellnessdiagnosticcenter.in | `Code` | ⭐ 0 | `2026-10-29` |
+| **[Jlab](https://github.com/joel220013-sys/Jlab)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-11-22` |
 | **[skyblue](https://github.com/joel220013-sys/skyblue)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-10-04` |
-| **[nexora](https://github.com/joel220013-sys/nexora)** | A project built as part of my engineering journey. | `TypeScript` | ⭐ 0 | `2026-06-11` |
 
 ---
 
 ## 📡 Recent Engineering Activity
 
+- **[Jlab](https://github.com/joel220013-sys/Jlab)** — Active project · `TypeScript` · updated `2026-11-22`
 - **[test](https://github.com/joel220013-sys/test)** — Active project · `Code` · updated `2026-11-13`
 - **[FUTURE_CS_02](https://github.com/joel220013-sys/FUTURE_CS_02)** — Active project · `Code` · updated `2026-11-11`
 - **[FUTURE_CS_03](https://github.com/joel220013-sys/FUTURE_CS_03)** — Future Interns Cyber Security Task 3 - read-only API security risk analysis of the ReqRes demo API. · `Code` · updated `2026-11-11`
 - **[portfolio](https://github.com/joel220013-sys/portfolio)** — Active project · `TypeScript` · updated `2026-11-09`
-- **[FUTURE_CS_01](https://github.com/joel220013-sys/FUTURE_CS_01)** — Read-only vulnerability assessment for wellnessdiagnosticcenter.in · `Code` · updated `2026-10-29`
 
 ---
 
